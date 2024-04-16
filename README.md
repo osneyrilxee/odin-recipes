@@ -8,13 +8,16 @@ The aim of this project is to create a recipes web sites. there are instructions
 
 here's the plan :
 
-.1 page content 
+1. page content 
 (only in HTML)
 
-.2 To work the construction and aesthetic of the page.
-(CSS/JavaScript)
+2. work the construction and aesthetic of sites
+(CSS)
 
-.3 Improve and finish the aesthetic. 
+3. work with Javacript and work on aesthetic and animations.
+(JavaScript)
+
+4. improve and finish the aesthetic and animations. 
 (CSS/JavaScript)
 
 Soon finish the fist step.
@@ -30,13 +33,15 @@ Le but de ce project et de créer un site web de recettes. Il y a des instructio
 
 Voici le plan :
 
-.1 contenue de la page. 
+1. contenue de la page. 
 (uniquement en HTML)
 
-.2 travailler la construction et l'esthétique de la page.
-(CSS/JavaScript)
+2. travailler la construction et l'esthétique de la page.
+(CSS)
 
-.3 améliorer et terminé l'esthétique. 
+3. travailler avec la JavaScript sur l'esthétique et les animations.
+
+4. améliorer et terminé l'esthétique. 
 (CSS/JavaScript)
 
 
