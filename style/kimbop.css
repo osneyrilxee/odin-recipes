@@ -2,7 +2,14 @@ body {
     margin: 0;
     display: flex;
     flex-direction:  column;
-    min-height: 100vh;
+    font-family: "Inter", sans-serif;
+    min-height: 150vh;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    position: relative
 }
 
 h1 {
@@ -11,9 +18,74 @@ h1 {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-position: bottom;
+    background-position: 0px -21em;
     margin: 0;
     text-align: center;
     color: #ffffff;
     font-family: "Inter", sans-serif;
+}
+
+nav ul {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+footer {
+    display: flex;
+    background-color: rgb(23, 23, 23);
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    margin: 0;
+    padding: 10px;
+    min-height: 20vh;
+    color: #dadada;
+    flex: 1 0;
+    line-gap-override: 10px;
+}
+
+footer a {
+    color: #dadada;
+    text-decoration: none;
+}
+
+footer ul {
+    display: flex;
+    flex-direction: column;
+    font-family: "Inter", sans-serif;
+    list-style: none;
+    line-height: 3rem;
+    padding: 0;
+}
+
+.heading-footer-style {
+    margin: 0;
+}
+
+footer #second-class-nav {
+    order: -1;
+}
+
+.odin-logo-footer {
+    padding: 10px;
+    text-align: center;
+    opacity: 0.5;
+    flex: 1 0 0;
+}
+
+.odin-logo-footer:hover {
+    opacity: 5;
+}
+
+#class-list-footer {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    flex: 3 0;    
+    height: 200px;
+    border-left: 1px solid rgb(167, 167, 167);
+    font-family: "Inter", sans-serif;
+    padding: 10px;
 }
