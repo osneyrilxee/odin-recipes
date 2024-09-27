@@ -9,7 +9,6 @@ The aim of this project is to create a recipes web sites. there are instructions
 here's the plan :
 
 1. page content 
-(only in HTML)
 
 2. work the construction and aesthetic of sites
 (CSS)
