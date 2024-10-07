@@ -19,7 +19,6 @@ here's the plan :
 4. improve and finish the aesthetic and animations. 
 (CSS/JavaScript)
 
-Soon finish the fist step.
 __________________________________________________________________
 
 FR: 
@@ -33,7 +32,6 @@ Le but de ce project et de créer un site web de recettes. Il y a des instructio
 Voici le plan :
 
 1. contenue de la page. 
-(uniquement en HTML)
 
 2. travailler la construction et l'esthétique de la page.
 (CSS)
@@ -42,6 +40,3 @@ Voici le plan :
 
 4. améliorer et terminé l'esthétique. 
 (CSS/JavaScript)
-
-
-Première étape bientôt fini.
